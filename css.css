@@ -4,3 +4,25 @@
 .varosok{
     text-align: center;
 }
+h2{
+    margin-left: 237px;
+}
+body{
+    background-image: url(kepek/eskuszomnemcopyrightostartalom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color: aquamarine;
+}
+.card{
+    background-color: aquamarine;
+    color: darkolivegreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
+    text-align: justify;
+}
+.Ismerteto{
+    font-size: 100%;
+    color: mediumblue;
+}
