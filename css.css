@@ -1,5 +1,6 @@
 .focim{
     text-align: center;
+    background-color: white;
 }
 .varosok{
     text-align: center;
@@ -25,4 +26,7 @@ body{
 .Ismerteto{
     font-size: 100%;
     color: mediumblue;
+}
+p{
+    text-align: justify;
 }
